@@ -1,4 +1,4 @@
-## Day 1 - Calories counter
+## Day 1 - Calorie Counting
 
 ### Used tech stack
 

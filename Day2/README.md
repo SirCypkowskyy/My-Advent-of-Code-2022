@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height=25></img>
 
 ### The task
-https://adventofcode.com/2022/day/1
+https://adventofcode.com/2022/day/2
 
 ### Getting Started
 

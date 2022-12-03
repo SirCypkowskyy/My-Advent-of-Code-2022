@@ -1,5 +1,5 @@
 # My Advent of Code 2022
- My projects of completed tasks in the Advent of Code challenge (2022 edition). 
+ My projects of completed tasks in the Advent of Code challenge (2022 edition) - https://adventofcode.com/2022/. 
  
  Each day I try to complete tasks in a different, preferably previously unknown programming language.
 

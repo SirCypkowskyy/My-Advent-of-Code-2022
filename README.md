@@ -15,7 +15,7 @@
 | 01  | [Calorie Counting](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day1)        |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height=15></img>   |
 | 02  | [Rock Paper Scissors](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day2)     |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height=15></img>   |
 | 03  | [Rucksack Reorganization](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day3) |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height=15></img>   |
-| 04  | [Camp Cleanup](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day3)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" height=15></img>   |
+| 04  | [Camp Cleanup](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day4)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" height=15></img>   |
 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.

@@ -16,5 +16,6 @@ https://adventofcode.com/2022/day/5
 Download the Lua language from [here](https://www.lua.org/download.html) or Lua for Windows [here](https://github.com/rjpcomputing/luaforwindows/releases). Then, run the following commands in your terminal:
 
 ```bash
-lua main.lua
+lua main_part1.lua
+lua main_part2.lua
 ```

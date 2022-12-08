@@ -11,6 +11,7 @@
  5. <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height=15></img> [Supply Stacks](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day5) - Day 5
  6. <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height=15></img> [Tuning Trouble](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day6) - Day 6
  7. <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height=15></img> [No Space Left On Device](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day7) - Day 7
+ 8. <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=15></img> [Treetop Tree House](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day8) - Day 8
 
 ### Progress
 | Day | Title                                   | Part 1 | Part 2 | Tech Stack | 
@@ -22,6 +23,7 @@
 | 05  | [Supply Stacks](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day5)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height=15></img>   |
 | 06  | [Tuning Trouble](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day6)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height=15></img>   |
 | 07  | [No Space Left On Device](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day7)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height=15></img>   |
+| 08  | [Treetop Tree House](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day8)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=15></img>   |
 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.

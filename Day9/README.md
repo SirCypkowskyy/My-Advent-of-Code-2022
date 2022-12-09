@@ -1,4 +1,4 @@
-## Day 9 - No Space Left On Device
+## Day 9 - Rope Bridge
 
 ### Used tech stack
 

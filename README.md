@@ -1,4 +1,6 @@
 # My Advent of Code 2022
+[^source]
+
  My projects of completed tasks in the Advent of Code[^aoc] challenge (2022 edition) - https://adventofcode.com/2022/. 
  
  Each day I try to complete tasks in a different, preferably previously unknown programming language.
@@ -27,6 +29,7 @@
 | 08  | [Treetop Tree House](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day8)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=15></img>   |
 | 09  | [No Space Left On Device](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day9)            |   🌟   |      |   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=15></img>   |
 
+[^source]: GIF by [Tanjil Mahmud](https://pixabay.com/users/tanjil-13-31890275/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=animation&amp;utm_content=2527) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=animation&amp;utm_content=2527) under the "free to use" Pixabay license. 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.
 You can solve the puzzle and provide an answer using the language of your choice.

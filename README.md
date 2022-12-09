@@ -1,10 +1,14 @@
 # My Advent of Code 2022
-[^source]
+
+<a href="https://adventofcode.com/2022/"><img align="right" src="tree.gif" height=412></img></a>
 
  My projects of completed tasks in the Advent of Code[^aoc] challenge (2022 edition) - https://adventofcode.com/2022/. 
  
  Each day I try to complete tasks in a different, preferably previously unknown programming language.
-
+ 
+ Animation source[^source]: [here](https://pixabay.com/gifs/christmas-tree-araucaria-columnaris-2527/)
+ 
+ 
 ## Table of contents
  1. <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height=15></img> [Calorie counter](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day1) - Day 1
  2. <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height=15></img> [Rock Paper Scissors](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day2) - Day 2

@@ -21,6 +21,8 @@
 | 08  | [Treetop Tree House](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day8)            |   🌟   |   🌟   |   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=15></img>   |
 | 09  | [Rope Bridge](https://github.com/SirCypkowskyy/My-Advent-of-Code-2022/tree/main/Day9) (only part 1)           |   🌟   |      |   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=15></img>   |
 
+**Project discontinued due to workload and a lack of spare time.**
+
 [^source]: GIF by [Tanjil Mahmud](https://pixabay.com/users/tanjil-13-31890275/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=animation&amp;utm_content=2527) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=animation&amp;utm_content=2527) under the "free to use" Pixabay license. 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.
